@@ -5,6 +5,7 @@ development, leveraging the simplicity and flexibility of Python.
 
 ## 🛠️ Tech Stack
 
+✅ **Python**<br/>
 ✅ **Flask**<br/>
 ✅ **MySQL**<br/>
 
